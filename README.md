@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @daffaaryapp
-- 👀 I’m interested in ? web development,mobile development,etc
-- 🌱 I’m currently learning ? web development
-- 💞️ I’m looking to collaborate on ? ...
-- 📫 How to reach me ? daffaaryapp@gmail.com
+Daffa Aryasatya
+
 
 
 <!---
